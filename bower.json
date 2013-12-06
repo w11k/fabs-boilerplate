@@ -1,0 +1,23 @@
+{
+  "name": "fabs-boilerplate",
+  "version": "0.1.0",
+  "devDependencies": {
+    "angular": "1.2.3",
+    "angular-animate": "1.2.3",
+    "angular-mocks": "1.2.3",
+    "bootstrap-sass": "3.0.2",
+    "angular-bootstrap": "0.7.0",
+    "angular-ui-router": "0.2.0",
+    "angular-growl": "0.3.1",
+    "angular-translate": "1.1.1",
+    "angular-translate-loader-static-files": "0.1.6",
+    "angular-translate-handler-log": "0.1.6",
+    "lodash": "2.2.1",
+    "animate.css": "2.1.0",
+    "font-awesome": "4.0.3"
+  },
+  "dependencies": {},
+  "resolutions": {
+    "angular": "1.2.3"
+  }
+}

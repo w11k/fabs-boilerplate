@@ -1,0 +1,31 @@
+{
+  "brand": "fabs-boilerplate",
+
+  "test": {
+    "headline": "Beispiele & Tests",
+
+    "bindingAndTranslate": {
+      "headline": "Data-Binding und Übersetzungen",
+      "username": {
+        "label": "Dein Name: ",
+        "placeholder": "Gib deinen Namen ein"
+      },
+      "message": "Hallo, {{name}}"
+    },
+
+    "assets": {
+      "headline": "Assets",
+      "fontAwesome": "Wenn nach diesem Text einem 'Daumen hoch' Icon folgt, funktioniert Font-Awesome."
+    },
+
+    "proxies": {
+      "headline": "Proxy",
+      "message": "Klick auf den folgenden Link um manuell zu testen, ob der Proxy im Dev-Server funktioniert."
+    },
+
+    "api": {
+      "headline": "Service & API",
+      "message": "Wenn Mock-Daten im Browser aktiviert sind oder der Proxy funktioiniert, sollte der w11kService ein paar Informationen über uns liefern:<br><br>{{name}}, {{location}}"
+    }
+  }
+}
