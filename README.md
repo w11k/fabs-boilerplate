@@ -33,8 +33,8 @@ Within `src/app` and `src/common` you are free to structure the code as you want
 (see https://github.com/ngbp/ng-boilerplate) we recommend to use a feature based structure. Create folders and
 sub-folders for features and grouping them instead of creating folders like 'style', 'scripts', etc and structure your
 code according to its kind. Place all the files needed for a feature within the feature folder. By doing so, it is much
-easier to find and navigate between those files. Take a look to `src/app` folder of this project to see an example for
-this structure.
+easier to find and navigate between those files. Take a look to `src/app` of this project to see an example of this
+structure.
 
 
 ## Roadmap
