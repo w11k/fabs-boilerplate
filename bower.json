@@ -1,6 +1,6 @@
 {
   "name": "fabs-boilerplate",
-  "version": "0.2.0-SNAPSHOT",
+  "version": "0.2.0",
   "devDependencies": {
     "angular": "1.2.4",
     "angular-animate": "1.2.4",
