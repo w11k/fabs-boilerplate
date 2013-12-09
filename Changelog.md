@@ -1,0 +1,13 @@
+<a name="v0.1.0"></a>
+### v0.1.0 (2013-12-06)
+
+First Release
+
+#### Features
+
+* Project structure
+* fabs / Grunt configuration (Gruntfile.js, project.config.js and developer.config.js)
+* Referencing assets from HTML
+* Cache busting with calculated paths (translation files)
+* App and common sources
+* Frequently used libs (Bootstrap, Translate, Growl, Font-Awesome, ...)
