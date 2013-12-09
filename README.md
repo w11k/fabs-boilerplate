@@ -1,12 +1,13 @@
-# Weigle Wilczek - Boilerplate
+# fabs - boilerplate
 
-Project structure boilerplate and demo of `fabs` build system for web applications developed with AngularJS.
+Project structure boilerplate and demo of `fabs` - the build system for web applications developed with AngularJS.
 
 
 ## Getting Started
 
-* Download and unzip distribution or clone git repository
-* Install Node.JS 0.10 or higher
+* Download and unzip distribution (see https://github.com/w11k/fabs-boilerplate/releases) or clone git repository
+* Install Node.JS 0.10.21 or higher
+* Open terminal
 * Install Grunt and Bower via `npm install -g grunt-cli bower` (try sudo if installation fails)
 * Navigate to project folder
 * Install Node Packages via `npm install`. This will install everything you need to run the build system.
