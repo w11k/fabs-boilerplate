@@ -40,3 +40,8 @@ structure.
 ## Roadmap
 
 See milestones and issues at https://github.com/w11k/fabs-boilerplate/issues and https://github.com/w11k/fabs/issues
+
+
+## License
+
+MIT - see LICENSE file
