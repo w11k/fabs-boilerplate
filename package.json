@@ -19,12 +19,11 @@
 
   "devDependencies": {
     "grunt": "0.4.2",
-    "fabs": "0.2.0",
+    "fabs": "0.4.3",
     "lodash": "2.2.1"
   },
 
   "engines": {
     "node": ">=0.10.21"
   }
-
 }
