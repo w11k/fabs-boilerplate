@@ -24,6 +24,7 @@ module.exports = {
       js: [
         'angular/angular.js',
         'angular-animate/angular-animate.js',
+        'angular-bootstrap/ui-bootstrap-tpls.js',
         'angular-growl/build/angular-growl.js',
         'angular-ui-router/release/angular-ui-router.js',
         'angular-translate/angular-translate.js',
