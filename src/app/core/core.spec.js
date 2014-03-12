@@ -4,17 +4,9 @@ describe('core module', function () {
 
   beforeEach(module('fabs.boilerplate.core'));
 
-  beforeEach(function () {
-    this.addMatchers({
-      toBeAFunction: function () {
-        return typeof this.actual === 'function';
-      }
-    });
-  });
+  describe('w11k service', function () {
 
-  describe('xy service', function () {
-
-    it('should use http to query xy data from server', inject(function (w11kService, $httpBackend, w11kMockData) {
+    it('should use http to query data from server', inject(function (w11kService, $httpBackend, w11kMockData, $rootScope) {
       $httpBackend.expectGET('/api/orgs/w11k');
 
       expect(w11kService.get()).toBeDefined();
@@ -23,11 +15,12 @@ describe('core module', function () {
         expect(result).toBe(w11kMockData);
       });
 
+
       // makes the test sync again
       $httpBackend.flush();
+      $rootScope.$digest();
     }));
 
   });
-
 
 });

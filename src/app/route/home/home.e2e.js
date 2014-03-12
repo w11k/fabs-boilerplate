@@ -8,6 +8,7 @@ describe('Home route', function () {
   describe('bindings and translations example', function () {
 
     it('should print welcome message with name', function () {
+      element('.navbar a').click();
       expect(element('div.well.bindingAndTranslate p').text()).toContain(', World');
     });
 
