@@ -1,3 +1,17 @@
+<a name="v0.4.0"></a>
+## v0.4.0 (2014-03-12)
+
+
+### Bug Fixes
+
+* **tests:** fix spec and e2e tests ([7113e302](https://github.com/w11k/fabs-boilerplate/commit/7113e3022b4ec503d74779425490fcc0d7a35a67))
+
+
+### Features
+
+* **fabs:** update fabs to 0.4.3 ([2580f62b](https://github.com/w11k/fabs-boilerplate/commit/2580f62b1962ff1f15887a963546ed7027d7f5df))
+
+
 <a name="v0.2.0"></a>
 ## v0.2.0 (2013-12-09)
 
