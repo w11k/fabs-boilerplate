@@ -11,7 +11,7 @@ angular.module('fabs.boilerplate.route.home').config(function ($stateProvider) {
     views: {
       main: {
         controller: 'HomeCtrl',
-        templateUrl: 'route/home/home.tpl.html'
+        templateUrl: 'route/home/home.html'
       }
     },
     data: { pageTitle: 'Home' }
