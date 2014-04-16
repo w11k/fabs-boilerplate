@@ -1,3 +1,12 @@
+<a name="v0.5.1"></a>
+## v0.5.1 (2014-04-17)
+
+
+### Features
+
+* **fabs:** update fabs to 0.5.1 and grunt to 0.4.4 ([c7399c33](https://github.com/w11k/fabs-boilerplate/commit/c7399c336f008a3d8e95bd0b6fc6c022281bb103))
+
+
 <a name="v0.5.0"></a>
 ## v0.5.0 (2014-04-17)
 
