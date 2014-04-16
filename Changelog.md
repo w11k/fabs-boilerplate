@@ -1,3 +1,14 @@
+<a name="v0.5.0"></a>
+## v0.5.0 (2014-04-17)
+
+
+### Features
+
+* **IE:** add polyfills to be able to run boilerplate in IE8 ([1ac1f30d](https://github.com/w11k/fabs-boilerplate/commit/1ac1f30db12d5daa4257c18c298cb6a297b66452))
+* **bless:** adjust css includes to new objects with blessed and regular css file ([b03be535](https://github.com/w11k/fabs-boilerplate/commit/b03be535356c54592f758c82dfe5e157f94ee3bb))
+* **fabs:** update fabs to 0.5.0 ([5e6a5421](https://github.com/w11k/fabs-boilerplate/commit/5e6a54211a4ad6034cfe80afeace501e53a03e94))
+
+
 <a name="v0.4.0"></a>
 ## v0.4.0 (2014-03-12)
 
