@@ -46,7 +46,11 @@ module.exports = {
         'angular-growl/build/angular-growl.min.css'
       ],
       assets: [
-        'font-awesome/fonts/*.*'
+        'font-awesome/fonts/*.*',
+        'json3/lib/json3.min.js',
+        'respond/dest/respond.min.js',
+        'console-polyfill/index.js',
+        'es5-shim/es5-shim.min.js'
       ]
     }
   }
