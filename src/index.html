@@ -7,10 +7,14 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+    <!--[if lte IE 9]>
+    <% blessedStyles.forEach( function ( file ) { %><link rel="stylesheet" type="text/css" href="<%= file %>"/><% }); %>
+    <![endif]-->
+    <!--[if gt IE 9]> -->
     <% styles.forEach( function ( file ) { %>
-    <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="<%= file.blessed %>"/><![endif]-->
-    <!--[if gt IE 9]> --><link rel="stylesheet" type="text/css" href="<%= file.regular %>"/><!-- <![endif]-->
+    <link rel="stylesheet" type="text/css" href="<%= file %>"/>
     <% }); %>
+    <!-- <![endif]-->
 
     <!--[if lt IE 9]>
     <script src="assets/es5-shim/es5-shim.min.js"></script>
