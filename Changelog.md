@@ -1,3 +1,12 @@
+<a name="v0.5.2"></a>
+## v0.5.2 (2014-04-17)
+
+
+### Features
+
+* **fabs:** update fabs to 0.5.2 ([6ab90012](https://github.com/w11k/fabs-boilerplate/commit/6ab90012141293fa4b700951fd4257597a06e4ad))
+
+
 <a name="v0.5.1"></a>
 ## v0.5.1 (2014-04-17)
 
