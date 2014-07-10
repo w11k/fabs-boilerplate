@@ -15,6 +15,4 @@ angular.module('app.mock').run(function ($httpBackend) {
   $httpBackend.whenGET(/^assets\/(.*)/).passThrough();
   // pass through all calls to load templates not included in js code
   $httpBackend.whenGET(/(.*).html$/).passThrough();
-  // pass through all calls to load translations not included in js code
-  $httpBackend.whenGET(/(.*)translations\/(.*).json$/).passThrough();
 });
