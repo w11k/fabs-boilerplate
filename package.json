@@ -1,7 +1,7 @@
 {
   "name": "fabs-boilerplate",
   "description": "Boilerplate with project structure and configuration for a web application using fabs (see http://github.com/w11k/fabs)",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "homepage": "http://github.com/w11k/fabs-boilerplate",
 
   "author": {
