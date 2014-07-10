@@ -1,3 +1,14 @@
+# fabs-boilderplate Changelog
+
+<a name="v0.5.5"></a>
+## v0.5.5 (2014-07-10)
+
+
+### Features
+
+* **css:** add css file to src/app to demonstrate new feature ([e107ead8](https://github.com/w11k/fabs-boilerplate/commit/e107ead8a8961f1fd88de91f243a266d06710fb9))
+* **fabs:** update fabs to 0.5.5 ([f968b233](https://github.com/w11k/fabs-boilerplate/commit/f968b233bba768e70e6e2740c91e9ce055b75c81))
+
 <a name="v0.5.2"></a>
 ## v0.5.2 (2014-04-17)
 
