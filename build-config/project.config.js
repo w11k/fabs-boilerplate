@@ -16,6 +16,12 @@ module.exports = {
           }
         }
       ]
+    },
+    spec: {
+      browsers: ['PhantomJS']
+    },
+    e2e: {
+      browsers: ['PhantomJS']
     }
   },
 
