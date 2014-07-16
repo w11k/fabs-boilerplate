@@ -16,7 +16,7 @@
                  ng-model="user.name"
                  >
         </div>
-        <p translate translate-values="{{user}}">test.bindingAndTranslate.message</p>
+        <p class="message" translate translate-values="{{user}}">test.bindingAndTranslate.message</p>
       </div>
 
     </div>
@@ -46,7 +46,11 @@
 
       <div class="well api">
         <h3 translate>test.api.headline</h3>
-        <p translate translate-values="{{w11k}}">test.api.message</p>
+        <p>
+          <span class="message" translate>test.api.message</span><br/>
+          <br/>
+          <span class="data" translate translate-values="{{w11k}}">test.api.data</span>
+        </p>
       </div>
 
     </div>

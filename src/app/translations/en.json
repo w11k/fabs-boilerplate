@@ -25,7 +25,8 @@
 
     "api": {
       "headline": "Service & API",
-      "message": "Assuming using mock data in browser is activated or dev-server-proxy is working, w11kService should deliver some information about us:<br><br>{{name}}, {{location}}"
+      "message": "Assuming using mock data in browser is activated or dev-server-proxy is working, w11kService should deliver some information about us:",
+      "data": "{{name}}, {{location}}"
     }
   }
 }

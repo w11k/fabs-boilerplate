@@ -25,7 +25,8 @@
 
     "api": {
       "headline": "Service & API",
-      "message": "Wenn Mock-Daten im Browser aktiviert sind oder der Proxy funktioiniert, sollte der w11kService ein paar Informationen über uns liefern:<br><br>{{name}}, {{location}}"
+      "message": "Wenn Mock-Daten im Browser aktiviert sind oder der Proxy funktioiniert, sollte der w11kService ein paar Informationen über uns liefern:",
+      "data": "{{name}}, {{location}}"
     }
   }
 }
