@@ -33,9 +33,6 @@ module.exports = {
         'angular-bootstrap/ui-bootstrap-tpls.js',
         'angular-growl/build/angular-growl.js',
         'angular-ui-router/release/angular-ui-router.js',
-        'angular-translate/angular-translate.js',
-        'angular-translate-loader-static-files/angular-translate-loader-static-files.js',
-        'angular-translate-handler-log/angular-translate-handler-log.js',
         'lodash/dist/lodash.compat.js'
       ],
       js_mock: [
