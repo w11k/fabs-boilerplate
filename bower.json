@@ -1,6 +1,6 @@
 {
   "name": "fabs-boilerplate",
-  "version": "0.5.5-minimal",
+  "version": "0.6.1-minimal",
   "devDependencies": {
     "angular": "1.2.19",
     "angular-mocks": "1.2.19",

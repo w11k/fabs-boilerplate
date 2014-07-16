@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html ng-app="<%= angular_module %>" ng-controller="AppCtrl">
   <head>
-    <title ng-bind="pageTitle">fabs boilerplate</title>
+    <title>fabs boilerplate - minimal setup</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,7 +27,7 @@
 
   <body>
 
-    <h1>Hello World!</h1>
+    <h1 ng-bind="welcomeMessage"></h1>
 
     <% scripts.forEach( function ( file ) { %>
     <script type="text/javascript" src="<%= file %>"></script>

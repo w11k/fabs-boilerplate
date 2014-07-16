@@ -5,5 +5,5 @@ angular.module('app', [
 ]);
 
 angular.module('app').controller('AppCtrl', function ($scope) {
-  $scope.pageTitle = 'fabs-boilerplate';
+  $scope.welcomeMessage = 'Hello fabs!';
 });

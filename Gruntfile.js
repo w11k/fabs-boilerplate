@@ -10,13 +10,7 @@ module.exports = function () {
   var configFolder = path.resolve('./build-config');
   var fabsConfig = fabs.getGruntConfig(configFolder);
 
-  var customConfig = {
-    bump: {
-      options: {
-        commit: false
-      }
-    }
-  };
+  var customConfig = { };
 
   var config = lodash.merge({}, fabsConfig, customConfig);
   grunt.initConfig(config);

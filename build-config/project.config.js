@@ -10,8 +10,7 @@ module.exports = {
       browsers: ['PhantomJS']
     },
     e2e: {
-      runInDev: false,
-      runInDist: false
+      browsers: ['PhantomJS']
     }
   },
 
