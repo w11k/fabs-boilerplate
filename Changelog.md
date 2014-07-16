@@ -1,5 +1,14 @@
 # fabs-boilderplate Changelog
 
+<a name="0.6.1"></a>
+## 0.6.1 (2014-07-16)
+
+
+### Features
+
+* **fabs:** update fabs to version 0.6.1 ([77dad821](https://github.com/w11k/fabs-boilerplate/commit/77dad821731264a45c4bb1e4adbbb86eaa8c6903))
+
+
 <a name="0.6.0"></a>
 ## 0.6.0 (2014-07-16)
 
