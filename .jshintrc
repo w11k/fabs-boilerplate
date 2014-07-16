@@ -26,7 +26,8 @@
     "jasmine",
     "spyOn",
     "browser",
-    "element"
+    "element",
+    "by"
   ],
 
   // Development.

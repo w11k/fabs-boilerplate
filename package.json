@@ -1,7 +1,7 @@
 {
   "name": "fabs-boilerplate",
   "description": "Boilerplate with project structure and configuration for a web application using fabs (see http://github.com/w11k/fabs)",
-  "version": "0.5.5",
+  "version": "0.6.0",
   "homepage": "http://github.com/w11k/fabs-boilerplate",
 
   "author": {
@@ -19,7 +19,7 @@
 
   "devDependencies": {
     "grunt": "0.4.4",
-    "fabs": "0.5.5",
+    "fabs": "0.6.0",
     "lodash": "2.2.1"
   },
 
