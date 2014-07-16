@@ -1,5 +1,14 @@
 # fabs-boilderplate Changelog
 
+<a name="0.6.0"></a>
+## 0.6.0 (2014-07-16)
+
+
+### Features
+
+* **fabs:** update fabs to 0.6.0 and adjusts e2e tests to protractor ([6a7e4841](https://github.com/w11k/fabs-boilerplate/commit/6a7e48411645956cf3cfde0b36c7455a825c1667))
+
+
 <a name="v0.5.5"></a>
 ## v0.5.5 (2014-07-10)
 
