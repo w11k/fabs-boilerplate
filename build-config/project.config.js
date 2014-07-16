@@ -3,19 +3,8 @@
 module.exports = {
 
   build: {
-    server: {
-      proxies: [
-        {
-          context: '/api',
-          host: 'api.github.com',
-          port: 443,
-          https: true,
-          changeOrigin: true,
-          rewrite: {
-            '^/api': ''
-          }
-        }
-      ]
+    sass: {
+      enabled: false
     },
     spec: {
       browsers: ['PhantomJS']
@@ -28,6 +17,7 @@ module.exports = {
   vendor: {
     files: {
       js: [
+        'angular/angular.js'
       ],
       js_mock: [
         'angular-mocks/angular-mocks.js'
@@ -37,7 +27,6 @@ module.exports = {
       js_e2e: [
       ],
       css: [
-        'angular-growl/build/angular-growl.min.css'
       ],
       assets: [
         'json3/lib/json3.min.js',
