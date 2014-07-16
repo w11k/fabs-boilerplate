@@ -19,7 +19,7 @@
 
   "devDependencies": {
     "grunt": "0.4.4",
-    "fabs": "0.6.0",
+    "fabs": "0.6.1",
     "lodash": "2.2.1"
   },
 
