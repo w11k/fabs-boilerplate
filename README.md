@@ -1,5 +1,12 @@
 # fabs - boilerplate
 
+## Deprecated
+
+This boilerplate project is deprecated. Please use our generator instead: [Fabs Yeoman Generator](https://github.com/w11k/fabs-yeoman-generator)
+
+
+## Introduction
+
 Project structure boilerplate and demo of `fabs` - the build system for web applications developed with AngularJS.
 
 
